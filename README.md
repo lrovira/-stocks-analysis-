@@ -22,13 +22,13 @@ Sub Challenge()
     'get the number of rows to loop over
         RowCount = Cells(Rows.Count, "A").End(xlUp).Row
 
-   'set tickerIndex to zero
+    'set tickerIndex to zero
         tickerIndex = 0
    
-   'subsequently ReDim in the FOR loop
+    'subsequently ReDim in the FOR loop
         ReDim ticker(4, tickerIndex)
    
-   'initial value for the ticker
+    'initial value for the ticker
         ticker(1, tickerIndex) = Cells(2, 1).Value
    
         For I = 2 To RowCount
