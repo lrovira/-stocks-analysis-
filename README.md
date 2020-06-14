@@ -2,7 +2,7 @@
 
 ### Challenge 2
 
-Sub Challenge()
+    Sub Challenge()
     yearValue = InputBox("What year would you like to run the analysis on?")
 
     Worksheets("Challenge 2").Activate
