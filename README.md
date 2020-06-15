@@ -2,6 +2,9 @@
 
 ### Challenge 2
 
+Steve wanted to do more research for his parents and was gathering data for the entire stock market in the past 2 years. We needed to improve and refactor the initial code because of new codes that needed to be integrated into our Analysis. The first thing I focused on was creating 2-Dimensional Array As Varyant type because the final number of tickers was not known. I found out that if in this last part of the refactor in order to make the formula run more efficiently, we had to integrate the Thicker of opening price, closing price, volumes, and shares. For that reason, we had to bring the variable tickerIndex so that we could then use it with For Loop and be able to exchange in between stock tickers and put it in the Refactor. In this manner we can run the analysis effectively and improve it from the last version. 
+
+
     Sub Challenge()
     yearValue = InputBox("What year would you like to run the analysis on?")
 
