@@ -93,4 +93,4 @@ Steve wanted to do more research for his parents and was gathering data for the 
 
 
 
-![Stocks].(https://github.comhttps://github.com/lrovira/-stocks-analysis-/blob/master/Stocks.png)
+![Stocks](https://github.comhttps://github.com/lrovira/-stocks-analysis-/blob/master/Stocks.png)
