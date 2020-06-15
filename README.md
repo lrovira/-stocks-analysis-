@@ -91,4 +91,4 @@ Steve wanted to do more research for his parents and was gathering data for the 
 
     End Sub
 
-![outcomes1].https://github.comhttps://github.com/lrovira/-stocks-analysis-/blob/master/Stocks.png
+![stocks].https://github.comhttps://github.com/lrovira/-stocks-analysis-/blob/master/Stocks.png
